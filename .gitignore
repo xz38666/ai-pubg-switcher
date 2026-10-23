@@ -1,0 +1,9 @@
+*.exe
+*.zip
+settings-before.xml
+last-transaction.xml
+last-result.txt
+last-error.txt
+selftest.txt
+effective.pac
+verification.txt
